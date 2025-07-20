@@ -1,4 +1,4 @@
-# Global-sales-performance-dashboard
+# Global Sales Performance Dashboard
 Interactive Power BI dashboard for global sales performance analysis
 
 This project is an interactive **Power BI dashboard** built to analyze global sales data by product line, region, and customer. It visualizes over **$10M in total sales**, providing key insights through dynamic visuals and filters.
